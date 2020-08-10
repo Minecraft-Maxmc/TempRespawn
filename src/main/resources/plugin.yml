@@ -1,0 +1,7 @@
+name: TempRespawn
+version: @version@
+main: cn.maxmc.temprespawn.TempRespawn
+commands:
+  temprespawn:
+    usage: /<command>
+    description: Nothing
